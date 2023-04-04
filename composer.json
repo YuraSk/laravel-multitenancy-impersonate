@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^8.2",
         "spatie/laravel-multitenancy": "^1.0",
         "illuminate/auth":"^7.0|^8.0",
         "illuminate/database":"^7.0|^8.0",
